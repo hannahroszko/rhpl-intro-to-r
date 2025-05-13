@@ -1,4 +1,4 @@
-# Introduction to R @ Red Hook Public Library | Summer 2025
+# Introduction to R @ Red Hook Public Library
 
 ## Table of Contents
 
