@@ -6,6 +6,8 @@
 
 ## Required Applications
 
+## Class Slides
+
 ## Problem Sets
 
 ## Helpful Resources
