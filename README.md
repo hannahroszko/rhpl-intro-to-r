@@ -4,12 +4,15 @@
 1. [Description](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#description)
 2. [Required Applications](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#required-applications)
 3. [Schedule](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#schedule)
-4. [Certificates](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#certificates)
-5. [Tutorials](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#tutorials)
+4. [Tutorials](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#tutorials)
+5. [Certificates](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#certificates)
 6. [Helpful Resources](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#helpful-resources)
 7. [Acknowledgments](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#acknowledgements)
 
 ## Description
+**Learning Outcomes**
+
+**Expectations**
 
 ## Required Applications
 **Course Communications**
@@ -39,17 +42,28 @@ Good news, you're already here!
 
 Schedule is subject to change, but any changes will be posted below and to GroupMe, as well as announced during class.
 
-## Certificates
-
 ## Tutorials
+Because we will only be meeting once a week, tutorials are an optional opportunity for you to practice in between classes to continue to build your skills! Following each lesson, two tutorials will be uploaded to the Tutorials page of this GitHub. This means you can access tutorials from any device with internet connection. You may decide to complete one, both, or neither, but you should start with the first tutorial accompanying each lesson. 
 
+Please knit your tutorial to PDF prior to submission and GroupMe DM to Tristan or Hannah. 
 
 **Grading Policy**
 | Grade | Expectations |
 | ------------ | ------------- |
-|:heavy_check_mark: :heavy_plus_sign:| ... |
-|:heavy_check_mark:| ... |
-|:heavy_check_mark: :heavy_minus_sign:| ... |
+|:heavy_check_mark: :heavy_plus_sign:| Demonstrates mastery of lesson material; minimal mistakes; exceptional effort demonstrated! |
+|:heavy_check_mark:| Demonstrates thorough understanding of lesson material; occasional mistakes; effort demonstrated! |
+|:heavy_check_mark: :heavy_minus_sign:| Demonstrates engagement with lesson material; several mistakes; effort demonstrated! |
+
+All tutorials submitted before 5 PM, the beginning of the upcoming lesson, will be graded according to the above scale and will receive individualized feedback. Tutorials receiving a :heavy_check_mark: or :heavy_check_mark: :heavy_plus_sign: will be considered toward the three tutorial total required for the enhanced certificate. Tutorials receiving a :heavy_check_mark: :heavy_minus_sign: can be corrected and returned to be reconsidered towards the total required for the enhanced certificate. Please see Tristan or Hannah, or GroupMe DM, if you are struggling with any of the material! This class is intended to support your efforts, not to be stress inducing. 
+
+## Certificates
+**Completion Certificate**
+
+This certificate is awarded to participants who attend a minimum of three of the four scheduled class sessions and demonstrate notable enthusiasm and effort.
+
+**Enhanced Completion Certificate**
+
+This certificate is awarded to participants who attend a minimum of three of the four scheduled class sessions, demonstrate notable enthusiasm and effort, and complete at least 3 of the 6 total possible tutorials. 
 
 ## Helpful Resources
 **Textbook**
