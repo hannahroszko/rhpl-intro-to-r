@@ -75,7 +75,7 @@ Schedule is subject to change, but any changes will be posted below and to Group
 
 Attendance and completion of problem sets is completely voluntary in this casual Summer setting, and any level of commitment that suits your schedule is welcome. However, as an incentive to encourage practice outside of class sessions, a **completion certificate** will be awarded to those who **satisfactorily complete the three "required" problem sets**. Additionally, an **enhanced completion certificate** will be awarded to those who **satisfactorily complete the three "required" problem sets**, as well as **one of the two enhanced problem sets**. 
 
-Problem sets will be "due" by the end of optional Office (Half) Hour on the Friday of the designated week. These assignments are intended to take a **maximum** of 90 minutes so that they can be exclusively be completed during optional Office Hours if you so choose. Once completed, please knit your RMarkdown to a PDF and submit by DMing it to Tristan or Hannah on GroupMe! Feel free to reach out with any questions or concerns - we are both here to support you and completely understand that learning R can be challenging. 
+Problem sets will be "due" by the end of optional Office (Half) Hour on the Friday of the designated week. These assignments are intended to take a **maximum** of 90 minutes so that they can be exclusively completed during optional Office Hours if you so choose. Once completed, please knit your RMarkdown to a PDF and submit by DMing it to Tristan or Hannah on GroupMe! Feel free to reach out with any questions or concerns - we are both here to support you and completely understand that learning R can be challenging. 
 
 **Grading Policy**
 | Grade | Expectations |
