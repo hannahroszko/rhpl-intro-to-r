@@ -4,9 +4,10 @@
 1. [Description](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#description)
 2. [Required Applications](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#required-applications)
 3. [Schedule](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#schedule)
-4. [Problem Sets](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#problem-sets)
-5. [Helpful Resources](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#helpful-resources)
-6. [Acknowledgments](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#acknowledgements)
+4. [Certificates](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#certificates)
+5. [Tutorials](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#tutorials)
+6. [Helpful Resources](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#helpful-resources)
+7. [Acknowledgments](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#acknowledgements)
 
 ## Description
 
@@ -29,53 +30,19 @@ Check website for R Studio updates; R Studio will also prompt with reminders to 
 Good news, you're already here!
 
 ## Schedule
-**June**
-| Date | Topic | Slides | Assignment |
-| ------------- | ------------- | ------------- | ------------- | 
-| Monday, June 9 | Introduction | [1_Introduction Handout.pdf](https://github.com/user-attachments/files/20275225/1_Introduction.Handout.pdf) | ... | 
-| Wednesday, June 11 | *tidyverse* I | 2_tidyverse Handout | ... | 
-| Friday, June 13 | *tidyverse* II | 3_tidyverse Handout | ... | 
-| Monday, June 16 | Data Wrangling | 4_Data Wrangling Handout | ... | 
-| Wednesday, June 18 | Univariate I | 5_Univariate Handout | ... | 
-| Friday, June 20 | Univariate II | 6_Univariate Handout | ... | 
-| Monday, June 23 | Multivariate I | 7_Multivariate Handout | ... | 
-| Wednesday, June 25 | Multivariate II | 8_Multivariate Handout | ... | 
-| Friday, June 27 | Multivariate III | 9_Multivariate Handout | ... | 
-| Monday, June 30 | Skill-builder | 10_Skill-builder Handout | ... | 
-
-**July**
-| Date | Topic | Slides | Assignment |
-| ------------- | ------------- | ------------- | ------------- |
-| Wednesday, July 2 | Guest Speaker TBA | N/A | ... | 
-| Friday, July 4 | **Class canceled; Happy 4th!** | N/A | ... | 
-| Monday, July 7 | Mock DataFest Overview | 13_Mock DataFest Overview Handout | ... | 
-| Wednesday, July 9 | Linear Regression | 14_Linear Regression Handout | ... | 
-| Friday, July 11 | Guest Speaker TBA | N/A | ... | 
-| Monday, July 14 | Mock DataFest I | N/A | ... | 
-| Wednesday, July 16 | Mock DataFest II | N/A | ... | 
-| Friday, July 18 | Wrap-up | N/A | ... | 
+| Date | Topic | Slides |
+| ------------- | ------------- | ------------- | 
+| July 10 | Setting Up & Intro to *tidyverse* | [Lesson 1](https://github.com/user-attachments/files/20275225/1_Introduction.Handout.pdf) | 
+| July 17 | Data Wrangling | Lesson 2 | 
+| July 24 | Intro to Visualization & Overview of Mock DataFest | Lesson 3 |
+| July 31 | Mock DataFest & Wrap Up | Lesson 4 |
 
 Schedule is subject to change, but any changes will be posted below and to GroupMe, as well as announced during class.
 
-## Problem Sets
-***"Required"* Problem Sets**
-| "Due" Date | Problem Set | Topic |
-| ------------ | ------------- | ------------- | 
-| Friday, ... at X XM | PS1 | ... |
-| Friday, ... at X XM | PS2 | ... |
-| Friday, ... at X XM | PS3 | ... |
+## Certificates
 
-***Optional* Enhanced Problem Sets**
-| "Due" Date | Problem Set | Topic |
-| ------------ | ------------- | ------------- | 
-| Friday, ... at X XM | EPS1 | ... |
-| Friday, ... at X XM | EPS2 | ... |
+## Tutorials
 
-**Problem Set Completion Policy**
-
-Attendance and completion of problem sets is completely voluntary in this casual Summer setting, and any level of commitment that suits your schedule is welcome. However, as an incentive to encourage practice outside of class sessions, a **completion certificate** will be awarded to those who **satisfactorily complete the three "required" problem sets**. Additionally, an **enhanced completion certificate** will be awarded to those who **satisfactorily complete the three "required" problem sets**, as well as **one of the two enhanced problem sets**. 
-
-Problem sets will be "due" by the end of optional Office (Half) Hour on the Friday of the designated week. These assignments are intended to take a **maximum** of 90 minutes so that they can be exclusively completed during optional Office Hours if you so choose. Once completed, please knit your RMarkdown to a PDF and submit by DMing it to Tristan or Hannah on GroupMe! Feel free to reach out with any questions or concerns - we are both here to support you and completely understand that learning R can be challenging. 
 
 **Grading Policy**
 | Grade | Expectations |
