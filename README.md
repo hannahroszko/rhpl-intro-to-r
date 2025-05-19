@@ -1,10 +1,27 @@
 # Introduction to R @ Red Hook Public Library
 
 ## Table of Contents
+1. **Description**
+2. **Required Applications**
+3. **Schedule**
+4. **Problem Sets**
+5. **Helpful Resources**
+6. **Acknowledgments**
 
 ## Description
 
 ## Required Applications
+**Course Communications**
+| Application | Important Links |
+| ------------- | ------------- |
+| GroupMe | https://groupme.com/join_group/107681477/Q1tiQzFX |
+
+**R & R Studio**
+Check this website for R Studio updates.
+| Application | Important Links |
+| ------------- | ------------- |
+| R | https://posit.co/download/rstudio-desktop/ |
+| R Studio | https://posit.co/download/rstudio-desktop/ |
 
 ## Schedule
 **June**
