@@ -1,12 +1,12 @@
 # Introduction to R @ Red Hook Public Library
 
 ## Table of Contents
-1. **Description**
-2. **Required Applications**
-3. **Schedule**
-4. **Problem Sets**
-5. **Helpful Resources**
-6. **Acknowledgments**
+1. [Description](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#description)
+2. [Required Applications](https://github.com/hannahroszko/rhpl-intro-to-r/edit/main/README.md#required-applications)
+3. [Schedule](https://github.com/hannahroszko/rhpl-intro-to-r/edit/main/README.md#schedule)
+4. [Problem Sets](https://github.com/hannahroszko/rhpl-intro-to-r/edit/main/README.md#problem-sets)
+5. [Helpful Resources](https://github.com/hannahroszko/rhpl-intro-to-r/edit/main/README.md#helpful-resources)
+6. [Acknowledgments](https://github.com/hannahroszko/rhpl-intro-to-r/edit/main/README.md#acknowledgments)
 
 ## Description
 
@@ -17,11 +17,16 @@
 | GroupMe | https://groupme.com/join_group/107681477/Q1tiQzFX |
 
 **R & R Studio**
-Check this website for R Studio updates.
 | Application | Important Links |
 | ------------- | ------------- |
 | R | https://posit.co/download/rstudio-desktop/ |
 | R Studio | https://posit.co/download/rstudio-desktop/ |
+
+Check website for R Studio updates; R Studio will also prompt with reminders to update when applicable.
+
+**GitHub**
+
+Good news, you're already here!
 
 ## Schedule
 **June**
@@ -50,8 +55,49 @@ Check this website for R Studio updates.
 | Wednesday, July 16 | Mock DataFest II | N/A |
 | Friday, July 18 | Wrap-up | N/A |
 
+Schedule is subject to change, but any changes will be posted below and to GroupMe, as well as announced during class.
+
 ## Problem Sets
+***"Required"* Problem Sets**
+| "Due" Date | Problem Set | Topic |
+| ------------ | ------------- | ------------- | 
+| Friday, ... at X XM | PS1 | ... |
+| Friday, ... at X XM | PS2 | ... |
+| Friday, ... at X XM | PS3 | ... |
+
+***Optional* Enhanced Problem Sets**
+| "Due" Date | Problem Set | Topic |
+| ------------ | ------------- | ------------- | 
+| Friday, ... at X XM | EPS1 | ... |
+| Friday, ... at X XM | EPS2 | ... |
+
+**Problem Set Completion Policy**
+
+Attendance and completion of problem sets is completely voluntary in this casual Summer setting, and any level of commitment that suits your schedule is welcome. However, as an incentive to encourage practice outside of class sessions, a **completion certificate** will be awarded to those who **satisfactorily complete the three "required" problem sets**. Additionally, an **enhanced completion certificate** will be awarded to those who **satisfactorily complete the three "required" problem sets**, as well as **one of the two enhanced problem sets**. 
+
+Problem sets will be "due" by the end of optional Office (Half) Hour on the Friday of the designated week. These assignments are intended to take a **maximum** of 90 minutes so that they can be exclusively be completed during optional Office Hours if you so choose. Once completed, please knit your RMarkdown to a PDF and submit by DMing it to Tristan or Hannah on GroupMe! Feel free to reach out with any questions or concerns - we are both here to support you and completely understand that learning R can be challenging. 
+
+**Grading Policy**
+| Grade | Expectations |
+| ------------ | ------------- |
+|:heavy_check_mark: :heavy_plus_sign:| ... |
+|:heavy_check_mark:| ... |
+|:heavy_check_mark: :heavy_minus_sign:| ... |
 
 ## Helpful Resources
+**Textbook**
+
+[R for Data Science (2e) by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund](https://r4ds.hadley.nz/)
+
+**R Landing Page**
+
+[The R Project for Statistical Computing](https://r-project.org/)
+
+**Debugging**
+| Resource | Notes |
+| ------------ | ------------- |
+| Good, old-fashioned Google | Copy and paste any error messages into the search bar. | 
+|[Slack Overflow](https://stackoverflow.com/questions)| Specify that you are working in R (users post questions about a variety of coding languages!). |
+| Chat GPT | As expected, helpful for generating and debugging code, but please use sparringly on account of its environmental impact. Read more [here](https://www.unep.org/news-and-stories/story/ai-has-environmental-problem-heres-what-world-can-do-about). |
 
 ## Acknowledgements
