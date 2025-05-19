@@ -6,7 +6,7 @@
 3. [Schedule](https://github.com/hannahroszko/rhpl-intro-to-r/edit/main/README.md#schedule)
 4. [Problem Sets](https://github.com/hannahroszko/rhpl-intro-to-r/edit/main/README.md#problem-sets)
 5. [Helpful Resources](https://github.com/hannahroszko/rhpl-intro-to-r/edit/main/README.md#helpful-resources)
-6. [Acknowledgments](https://github.com/hannahroszko/rhpl-intro-to-r/edit/main/README.md#acknowledgments)
+6. [Acknowledgments](https://github.com/hannahroszko/rhpl-intro-to-r/edit/main/README.md#acknowledgements)
 
 ## Description
 
