@@ -2,11 +2,11 @@
 
 ## Table of Contents
 1. [Description](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#description)
-2. [Required Applications](https://github.com/hannahroszko/rhpl-intro-to-r/edit/main/README.md#required-applications)
-3. [Schedule](https://github.com/hannahroszko/rhpl-intro-to-r/edit/main/README.md#schedule)
-4. [Problem Sets](https://github.com/hannahroszko/rhpl-intro-to-r/edit/main/README.md#problem-sets)
-5. [Helpful Resources](https://github.com/hannahroszko/rhpl-intro-to-r/edit/main/README.md#helpful-resources)
-6. [Acknowledgments](https://github.com/hannahroszko/rhpl-intro-to-r/edit/main/README.md#acknowledgements)
+2. [Required Applications](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#required-applications)
+3. [Schedule](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#schedule)
+4. [Problem Sets](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#problem-sets)
+5. [Helpful Resources](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#helpful-resources)
+6. [Acknowledgments](https://github.com/hannahroszko/rhpl-intro-to-r/blob/main/README.md#acknowledgements)
 
 ## Description
 
